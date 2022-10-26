@@ -1,0 +1,20 @@
+{
+  "name": "@example/basics",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/vue": "^1.2.1",
+    "astro": "^1.5.3",
+    "sass": "^1.55.0",
+    "vue": "^3.2.41",
+    "vue-eslint-parser": "^8.3.0"
+  }
+}
